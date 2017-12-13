@@ -49,7 +49,7 @@ def main():
 		print 'Waiting for the other person to connect.'
 		StudentChat.bind()
 		friend = StudentChat.accept()
-		print 'Welcome to the Riyaz-Ul-Haque Chat Program!'
+		print 'Welcome to the JUHI Chat Program!'
 		reply = 'init'
 		while reply != '0':#Until one of the member says stop
 			mesg = raw_input('Enter your message: [0 to stop]')
