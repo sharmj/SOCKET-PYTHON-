@@ -1,6 +1,5 @@
 '''
-@Riyaz-Ul-Haque
-
+@Juhi
 '''
 
 import socket
